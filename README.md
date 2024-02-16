@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Beatriz
-- 😊 eu tenho 18 anos
+- 😊 eu tenho 19 anos
 - 🌱 Dev Front-end
 - 🌎 Meu nível de inglês é basico
 - ❤ Interesses:
