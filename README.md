@@ -4,7 +4,7 @@
 --->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bia-pequeno&show_icons=true&count_private=true&hide_border=true&title_color=19f9d899&icon_color=19f9d899&text_color=FF75B5&bg_color=31353a" alt="Beatriz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bia-pequeno&layout=compact&hide=Cython,c&hide_border=true&title_color=19f9d899&text_color=FF75B5&bg_color=31353a" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bia-pequeno&layout=compact&hide=Cython,c&hide_border=true&title_color=19f9d899&text_color=FF75B5&bg_color=31353a" />
 </div>
 
 
