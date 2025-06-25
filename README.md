@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AF7DF&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Beatriz%3B+I'm+19+years+old%3B+I'm+from+Brazil%3B+I'm+studying+Systems+Analysis+and+Development%3B+Be+Welcome!+%3A%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AF7DF&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Beatriz%3B+I'm+20+years+old%3B+I'm+from+Brazil%3B+I'm+studying+Systems+Analysis+and+Development%3B+Be+Welcome!+%3A%29)
 <!---
 (https://git.io/typing-svg)
 --->
